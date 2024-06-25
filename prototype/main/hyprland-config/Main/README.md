@@ -8,7 +8,7 @@
 ## Config File Path
 
 
-### Hyprland
+### hyprland
 
 | Config File Path |
 | --- |
@@ -16,7 +16,7 @@
 | [~/.config/hypr/hyprpaper.conf](./asset/overlay/etc/skel/.config/hypr/hyprpaper.conf) |
 
 
-### Wallpaper
+### wallpaper
 
 > for [hyprpaper](https://packages.fedoraproject.org/pkgs/hyprpaper/hyprpaper/)
 
@@ -25,7 +25,9 @@
 | [~/.config/hypr/hyprpaper.conf](./asset/overlay/etc/skel/.config/hypr/hyprpaper.conf) |
 
 
-> for `wf-background`
+### panel
+
+> for `wf-panel` and `wf-background`
 
 | Config File Path |
 | --- |
