@@ -31,7 +31,7 @@
 
 | Config File Path |
 | --- |
-| [~/.config/wf-shell.ini](./asset/overlay/etc/skel/.config/xwf-shell.ini) |
+| [~/.config/wf-shell.ini](./asset/overlay/etc/skel/.config/wf-shell.ini) |
 
 
 ### thunar
