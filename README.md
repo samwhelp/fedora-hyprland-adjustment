@@ -21,7 +21,7 @@
 
 | Adjustment |
 | -------- |
-| [Fedora Hyprland](https://github.com/samwhelp/fedora-hyprland-adjustment/tree/main/prototype/main/hyprland-config/Main) |
+| [Fedora Hyprland Config](https://github.com/samwhelp/fedora-hyprland-adjustment/tree/main/prototype/main/hyprland-config/Main) |
 
 
 
