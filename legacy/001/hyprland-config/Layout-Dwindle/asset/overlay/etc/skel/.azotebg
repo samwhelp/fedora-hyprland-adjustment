@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+pkill swaybg
+#swaybg -o '*' -i "$HOME/Pictures/Wallpaper/default.jpg" -m "fill" &
+swaybg -o '*' -i "/usr/share/backgrounds/default.jpg" -m "fill" &
+
